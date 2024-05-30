@@ -56,6 +56,3 @@ showMoreBtn.addEventListener("click", ()=>{
 
 
 
-//application id:  576551
-//access key: aDsdeCnamcTJzLItw9uMcAE_DbcRvmjjGrg9rHq9PrA
-//secret access key: kiMKL3Gx6NTq6i6INMT9tQTjvD91bsGcyide_3RGmoE
